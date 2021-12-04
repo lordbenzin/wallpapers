@@ -1,0 +1,113 @@
+total 146740
+-rw-r--r-- 1 majer majer  998771 Dec  4 19:39 1342985169850.jpg
+-rw-r--r-- 1 majer majer  810494 Dec  4 20:12 1394949211724.jpg
+-rw-r--r-- 1 majer majer 4073410 Dec  4 20:12 1397404798884.jpg
+-rw-r--r-- 1 majer majer  329209 Dec  4 20:12 1397537290247.jpg
+-rw-r--r-- 1 majer majer  784378 Dec  4 20:03 13.png
+-rw-r--r-- 1 majer majer  268901 Dec  4 20:03 1433294860668-1.jpg
+-rw-r--r-- 1 majer majer 2996907 Dec  4 20:16 1436546392749-2.png
+-rw-r--r-- 1 majer majer 5889118 Dec  4 20:16 1440059773384.jpg
+-rw-r--r-- 1 majer majer 2365120 Dec  4 20:21 1454722946236.jpg
+-rw-r--r-- 1 majer majer  367738 Dec  4 20:03 1470200726355.jpg
+-rw-r--r-- 1 majer majer  545059 Dec  4 20:03 147725791272883.jpg
+-rw-r--r-- 1 majer majer  629695 Dec  4 20:25 1483008459203.jpg
+-rw-r--r-- 1 majer majer  384341 Dec  4 20:25 1486303186876.jpg
+-rw-r--r-- 1 majer majer  511162 Dec  4 20:03 1489124206749.jpg
+-rw-r--r-- 1 majer majer 1371148 Dec  4 20:03 1489681854803.jpg
+-rw-r--r-- 1 majer majer 1888193 Dec  4 20:21 1489821417208.jpg
+-rw-r--r-- 1 majer majer 2568548 Dec  4 20:28 1490469583312.jpg
+-rw-r--r-- 1 majer majer 1796562 Dec  4 20:28 1490672354805.jpg
+-rw-r--r-- 1 majer majer  602392 Dec  4 20:21 1491093330753.jpg
+-rw-r--r-- 1 majer majer 1285817 Dec  4 20:03 1494178893071.jpg
+-rw-r--r-- 1 majer majer 1526411 Dec  4 20:03 1495090941323.jpg
+-rw-r--r-- 1 majer majer 2128916 Dec  4 20:21 1496098395582.png
+-rw-r--r-- 1 majer majer 1036119 Dec  4 20:21 1502407855410.jpg
+-rw-r--r-- 1 majer majer  728621 Dec  4 20:03 1502407890308.jpg
+-rw-r--r-- 1 majer majer  419002 Dec  4 20:03 1503287930788.jpg
+-rw-r--r-- 1 majer majer 2252590 Dec  4 19:31 19_supernatural.jpg
+-rw-r--r-- 1 majer majer 3131897 Dec  4 19:31 1_temple_landscape.jpg
+-rw-r--r-- 1 majer majer 1898927 Dec  4 19:30 20_city.jpg
+-rw-r--r-- 1 majer majer  996224 Dec  4 19:06 2560px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg
+-rw-r--r-- 1 majer majer  633797 Dec  4 20:25 78e668aaa342159a1d44db4b2db07cc83435b951d717455730671ab599cebf70.png
+-rw-r--r-- 1 majer majer  297416 Dec  4 20:35 7949729142_f9793b18bd_b.jpg
+-rw-r--r-- 1 majer majer   46819 Dec  4 20:25 8bit_stallman.png
+-rw-r--r-- 1 majer majer 2932239 Dec  4 19:39 art_15.png
+-rw-r--r-- 1 majer majer  485234 Dec  4 19:39 art_18.png
+-rw-r--r-- 1 majer majer   80006 Dec  4 19:39 art_26.png
+-rw-r--r-- 1 majer majer   59541 Dec  4 19:39 art_36.png
+-rw-r--r-- 1 majer majer  208232 Dec  4 19:39 art_43.png
+-rw-r--r-- 1 majer majer  722301 Dec  4 19:39 art_45.png
+-rw-r--r-- 1 majer majer  481314 Dec  4 19:39 art_47.png
+-rw-r--r-- 1 majer majer 1006889 Dec  4 19:39 art_48.png
+-rw-r--r-- 1 majer majer  750489 Dec  4 19:39 art_55.png
+-rw-r--r-- 1 majer majer  143499 Dec  4 19:39 art_57.png
+-rw-r--r-- 1 majer majer 5257100 Dec  4 19:39 art_64.png
+-rw-r--r-- 1 majer majer  586223 Dec  4 19:39 art_66.png
+-rw-r--r-- 1 majer majer 2471207 Dec  4 19:39 art_78.png
+-rw-r--r-- 1 majer majer  626797 Dec  4 19:39 art_92.png
+-rw-r--r-- 1 majer majer  463465 Dec  4 19:39 art_96.png
+-rw-r--r-- 1 majer majer   38846 Dec  4 20:25 bash_bw.png
+-rw-r--r-- 1 majer majer  599604 Dec  4 20:12 cgi_lib.jpg
+-rw-r--r-- 1 majer majer 1812206 Dec  4 20:03 cityscape_1.png
+-rw-r--r-- 1 majer majer 3627576 Dec  4 20:03 cityscape_28.png
+-rw-r--r-- 1 majer majer  234199 Dec  4 20:03 cityscape_40.png
+-rw-r--r-- 1 majer majer 2369230 Dec  4 20:03 cityscape_47.png
+-rw-r--r-- 1 majer majer 4845321 Dec  4 20:03 cityscape_51.png
+-rw-r--r-- 1 majer majer 1116072 Dec  4 20:03 Comfy 26.jpg
+-rw-r--r-- 1 majer majer  339697 Dec  4 20:26 cthulu.png
+-rw-r--r-- 1 majer majer 1103153 Dec  4 20:12 cyber.jpg
+-rw-r--r-- 1 majer majer  175086 Dec  4 20:28 DH8dD5ZUQAEAmu_.jpg
+-rw-r--r-- 1 majer majer    9232 Dec  4 20:25 dwm.png
+-rw-r--r-- 1 majer majer  263626 Dec  4 20:16 future_12.jpg
+-rw-r--r-- 1 majer majer  827552 Dec  4 20:16 future_16.jpg
+-rw-r--r-- 1 majer majer 1748871 Dec  4 20:16 future_17.jpg
+-rw-r--r-- 1 majer majer  418131 Dec  4 20:16 future_34.jpg
+-rw-r--r-- 1 majer majer 1088133 Dec  4 20:16 future_4.jpg
+-rw-r--r-- 1 majer majer 1172054 Dec  4 20:16 future_6.jpg
+-rw-r--r-- 1 majer majer 1283046 Dec  4 20:16 future_7.jpg
+-rw-r--r-- 1 majer majer   27792 Dec  4 20:25 g8tZxj2.png
+-rw-r--r-- 1 majer majer 1267829 Dec  4 20:26 ghidorah.png
+-rw-r--r-- 1 majer majer  341620 Dec  4 20:25 GNUlag.jpg
+-rw-r--r-- 1 majer majer  327518 Dec  4 20:25 gnu.png
+-rw-r--r-- 1 majer majer   62728 Dec  4 20:25 iGNUcius.png
+-rw-r--r-- 1 majer majer 1278006 Dec  4 20:12 Landing in the Puget Sound.jpg
+-rw-r--r-- 1 majer majer  177560 Dec  4 20:21 landscape_10.jpg
+-rw-r--r-- 1 majer majer  536445 Dec  4 20:21 landscape_32.jpg
+-rw-r--r-- 1 majer majer  167668 Dec  4 20:21 landscape_3.jpg
+-rw-r--r-- 1 majer majer 1839463 Dec  4 20:21 landscape_42.jpg
+-rw-r--r-- 1 majer majer 6998141 Dec  4 20:21 landscape_43.jpg
+-rw-r--r-- 1 majer majer 3473296 Dec  4 20:21 landscape_45.jpg
+-rw-r--r-- 1 majer majer  188277 Dec  4 20:21 landscape_48.jpg
+-rw-r--r-- 1 majer majer  231850 Dec  4 20:21 landscape_56.jpg
+-rw-r--r-- 1 majer majer       0 Dec  4 20:51 listt.txt
+-rw-r--r-- 1 majer majer 2786518 Dec  4 20:03 megatowers.jpg
+-rw-r--r-- 1 majer majer  719553 Dec  4 20:12 personal_library.jpg
+-rw-r--r-- 1 majer majer 2303904 Dec  4 20:12 reichstag.png
+-rw-r--r-- 1 majer majer  368929 Dec  4 20:12 rivendell_3.jpg
+-rw-r--r-- 1 majer majer  962714 Dec  4 20:03 Sci-Fi (106).jpg
+-rw-r--r-- 1 majer majer  371303 Dec  4 20:12 Sci-Fi (164).jpg
+-rw-r--r-- 1 majer majer 4550923 Dec  4 20:23 Space Exploration 9.png
+-rw-r--r-- 1 majer majer  381985 Dec  4 20:23 spacescape_10.png
+-rw-r--r-- 1 majer majer 3123726 Dec  4 19:07 the_departure_2014.79.13.jpg
+-rw-r--r-- 1 majer majer 1945210 Dec  4 20:12 trinity_college.jpg
+-rw-r--r-- 1 majer majer  369501 Dec  4 20:21 valley_painting.jpg
+-rw-r--r-- 1 majer majer 1067295 Dec  4 19:20 wallpaperflare.com_wallpaper (10).jpg
+-rw-r--r-- 1 majer majer 1213262 Dec  4 19:21 wallpaperflare.com_wallpaper (11).jpg
+-rw-r--r-- 1 majer majer 2328093 Dec  4 19:22 wallpaperflare.com_wallpaper (12).jpg
+-rw-r--r-- 1 majer majer 1138913 Dec  4 19:23 wallpaperflare.com_wallpaper (13).jpg
+-rw-r--r-- 1 majer majer 1697738 Dec  4 19:26 wallpaperflare.com_wallpaper (14).jpg
+-rw-r--r-- 1 majer majer  878660 Dec  4 19:28 wallpaperflare.com_wallpaper (15).jpg
+-rw-r--r-- 1 majer majer 1759655 Dec  4 19:32 wallpaperflare.com_wallpaper (16).jpg
+-rw-r--r-- 1 majer majer 2010381 Dec  4 20:30 wallpaperflare.com_wallpaper (17).jpg
+-rw-r--r-- 1 majer majer 2147319 Dec  4 20:31 wallpaperflare.com_wallpaper (18).jpg
+-rw-r--r-- 1 majer majer 2515135 Dec  4 19:14 wallpaperflare.com_wallpaper (1).jpg
+-rw-r--r-- 1 majer majer 1377547 Dec  4 19:15 wallpaperflare.com_wallpaper (2).jpg
+-rw-r--r-- 1 majer majer 1071003 Dec  4 19:16 wallpaperflare.com_wallpaper (3).jpg
+-rw-r--r-- 1 majer majer 1075489 Dec  4 19:16 wallpaperflare.com_wallpaper (4).jpg
+-rw-r--r-- 1 majer majer 2743853 Dec  4 19:17 wallpaperflare.com_wallpaper (5).jpg
+-rw-r--r-- 1 majer majer 1120608 Dec  4 19:18 wallpaperflare.com_wallpaper (6).jpg
+-rw-r--r-- 1 majer majer 1173986 Dec  4 19:19 wallpaperflare.com_wallpaper (7).jpg
+-rw-r--r-- 1 majer majer  712457 Dec  4 19:20 wallpaperflare.com_wallpaper (8).jpg
+-rw-r--r-- 1 majer majer 2320074 Dec  4 19:20 wallpaperflare.com_wallpaper (9).jpg
+-rw-r--r-- 1 majer majer 1746686 Dec  4 19:13 wallpaperflare.com_wallpaper.jpg
+-rw-r--r-- 1 majer majer  230924 Dec  4 20:21 waterfall_arch.jpg
